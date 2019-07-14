@@ -1,0 +1,9 @@
+.envrc
+.direnv
+
+## Export & import
+ril_export.html
+output/*
+
+## Keep files
+!.gitkeep
