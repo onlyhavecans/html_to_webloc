@@ -8,7 +8,7 @@ GEM
     interception (0.5)
     method_source (1.0.0)
     mini_portile2 (2.8.2)
-    nokogiri (1.15.2)
+    nokogiri (1.15.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pry (0.14.2)
@@ -20,7 +20,7 @@ GEM
     pry-stack_explorer (0.6.1)
       binding_of_caller (~> 1.0)
       pry (~> 0.13)
-    racc (1.6.2)
+    racc (1.7.1)
 
 PLATFORMS
   ruby
