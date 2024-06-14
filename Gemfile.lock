@@ -7,8 +7,8 @@ GEM
     debug_inspector (1.1.0)
     interception (0.5)
     method_source (1.0.0)
-    mini_portile2 (2.8.6)
-    nokogiri (1.16.5)
+    mini_portile2 (2.8.7)
+    nokogiri (1.16.6)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pry (0.14.2)
@@ -20,7 +20,7 @@ GEM
     pry-stack_explorer (0.6.1)
       binding_of_caller (~> 1.0)
       pry (~> 0.13)
-    racc (1.7.3)
+    racc (1.8.0)
 
 PLATFORMS
   ruby
